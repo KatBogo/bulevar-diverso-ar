@@ -15,7 +15,9 @@ La dirección abre directo la **versión con Meta Immersive Web SDK (IWSDK)**, l
    - **Pestañas, puntos y fichas:** señala con la mano (sale un rayo) y haz un pellizco corto.
    - **Historia:** la línea del tiempo con sus seis fechas; «Anterior», «Siguiente» y «Cerrar».
    - **Lugares:** toca el punto naranja del Gato de Tejada y su ficha se abre junto a él.
+   - **Menú:** solo responde cuando lo estás mirando; si miras a otro lado se atenúa y no se puede tocar (así no se hunde una pestaña sin querer al agarrar la isla).
    - **Eventos:** Feria del Libro, Alumbrado o Sucursal Fest; su decoración sube sobre la isla.
+   - **Hitos de los eventos:** con el evento puesto aparecen números dorados sobre la decoración (el gran árbol del Alumbrado, los libros gigantes de la Feria, la tarima del Sucursal Fest…). Toca el número, o el objeto mismo: se hunde y se abre su ficha. «Anterior» y «Siguiente» pasan de un hito a otro. Los hitos se editan en `iwsdk/data/bulevar.json` (lista `hitos` de cada evento).
    - **Rutas:** elige una; se dibuja el camino con las paradas numeradas.
 5. Para salir, pulsa el botón Meta de un control o haz el gesto del menú con la mano.
 
