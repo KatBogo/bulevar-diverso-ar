@@ -474,9 +474,8 @@
       ],
       "model": "/models/lugar_mucic.glb",
       "photo": {
-        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Calle_de_La_Escopeta%2C_Cali%2C_Colombia_01.jpg/960px-Calle_de_La_Escopeta%2C_Cali%2C_Colombia_01.jpg",
-        "page": "https://commons.wikimedia.org/wiki/File:Calle_de_La_Escopeta,_Cali,_Colombia_01.jpg",
-        "credit": "Calle de La Escopeta · Diego Carrejo Murillo · CC BY-SA 3.0 · Wikimedia Commons"
+        "src": "fotos/mucic.jpg",
+        "credit": "Imagen de Google Street View (2024), aportada por el equipo"
       }
     },
     {
@@ -505,9 +504,9 @@
       ],
       "model": "/models/lugar_gato-de-tejada.glb",
       "photo": {
-        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/El_Gato_del_R%C3%ADo-Cali.jpg/960px-El_Gato_del_R%C3%ADo-Cali.jpg",
-        "page": "https://commons.wikimedia.org/wiki/File:El_Gato_del_R%C3%ADo-Cali.jpg",
-        "credit": "Juan Espinosa · CC BY-SA 2.0 · Wikimedia Commons"
+        "src": "fotos/gato.jpg",
+        "credit": "Juan Espinosa · CC BY-SA 2.0 · Wikimedia Commons",
+        "page": "https://commons.wikimedia.org/wiki/File:El_Gato_del_R%C3%ADo-Cali.jpg"
       }
     },
     {
@@ -536,9 +535,8 @@
       ],
       "model": "/models/lugar_biblioteca-centenario.glb",
       "photo": {
-        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Biblioteca_del_Centenario_7-05-2015_01.JPG/960px-Biblioteca_del_Centenario_7-05-2015_01.JPG",
-        "page": "https://commons.wikimedia.org/wiki/File:Biblioteca_del_Centenario_7-05-2015_01.JPG",
-        "credit": "Leidy Estefani Mielguteto Sandoval · CC BY-SA 4.0 · Wikimedia Commons"
+        "src": "fotos/biblioteca.jpg",
+        "credit": "Foto aportada por el equipo"
       }
     },
     {
@@ -567,9 +565,8 @@
       ],
       "model": "/models/lugar_museo-la-tertulia.glb",
       "photo": {
-        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Museo_La_Tertulia_Cali%2C_Colombia.jpg/960px-Museo_La_Tertulia_Cali%2C_Colombia.jpg",
-        "page": "https://commons.wikimedia.org/wiki/File:Museo_La_Tertulia_Cali,_Colombia.jpg",
-        "credit": "Juanes016 · CC0 · Wikimedia Commons"
+        "src": "fotos/tertulia.jpg",
+        "credit": "Foto aportada por el equipo"
       }
     }
   ],
@@ -789,7 +786,7 @@
           "desc": "Una parada para probar la pizza pantalón y compartir pizza artesanal durante tu recorrido por el Bulevar.",
           "photo": null,
           "verified": "partial",
-          "pending": "Foto con licencia libre o autorizada; comprobar en la carta la denominación «pizza pantalón».",
+          "pending": "Foto real del local con licencia libre o autorizada (las de elpizzaron.com no se pueden usar sin permiso); comprobar en la carta la denominación «pizza pantalón».",
           "sources": [
             "https://elpizzaron.com/contacto/",
             "https://elpizzaron.com/menu/"
@@ -815,9 +812,9 @@
           ],
           "base": 0,
           "photo": {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Quisko_de_la_Retreta.jpg/960px-Quisko_de_la_Retreta.jpg",
-            "page": "https://commons.wikimedia.org/wiki/File:Quisko_de_la_Retreta.jpg",
-            "credit": "Kiosco de La Retreta · Sahaquiel9102 · CC BY-SA 3.0 · Wikimedia Commons"
+            "src": "fotos/retreta-raspados.jpg",
+            "credit": "Sahaquiel9102 · CC BY-SA 3.0 · Wikimedia Commons",
+            "page": "https://commons.wikimedia.org/wiki/File:Quisko_de_la_Retreta.jpg"
           },
           "verified": true,
           "pending": "Foto propia o autorizada de los puestos o del producto (la foto es del kiosco del parque).",
@@ -841,7 +838,7 @@
           "base": 0,
           "photo": null,
           "verified": "partial",
-          "pending": "Confirmar la sede y su dirección (coincide con El Pizzarón) y una foto con licencia libre o autorizada.",
+          "pending": "Foto real del local con licencia libre o autorizada (las de Instagram y Restaurant Guru no se pueden usar sin permiso); confirmar la sede (su dirección coincide con la de El Pizzarón).",
           "sources": [
             "https://www.instagram.com/tarantella.coffee/",
             "https://es.restaurantguru.com/Tarantella-coffee-and-Drinks-Cali"
@@ -888,9 +885,8 @@
           "address": "Avenida Colombia # 5-105 Oeste",
           "desc": "Arte, exposiciones y cine junto al río. Descubre sus salas y jardines.",
           "photo": {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Museo_La_Tertulia_Cali%2C_Colombia.jpg/960px-Museo_La_Tertulia_Cali%2C_Colombia.jpg",
-            "page": "https://commons.wikimedia.org/wiki/File:Museo_La_Tertulia_Cali,_Colombia.jpg",
-            "credit": "Juanes016 · CC0 · Wikimedia Commons"
+            "src": "fotos/tertulia.jpg",
+            "credit": "Foto aportada por el equipo"
           },
           "verified": true,
           "sources": [
@@ -912,12 +908,11 @@
           "address": "Carrera 4 # 5-50, frente a la Calle de la Escopeta (casa vinculada al proyecto del museo, Sociedad de Mejoras Públicas de Cali)",
           "desc": "Una casa patrimonial vinculada al proyecto del Museo de la Ciudad, dedicado a conservar la memoria y las historias de Cali.",
           "photo": {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Calle_de_La_Escopeta%2C_Cali%2C_Colombia_01.jpg/960px-Calle_de_La_Escopeta%2C_Cali%2C_Colombia_01.jpg",
-            "page": "https://commons.wikimedia.org/wiki/File:Calle_de_La_Escopeta,_Cali,_Colombia_01.jpg",
-            "credit": "Calle de La Escopeta · Diego Carrejo Murillo · CC BY-SA 3.0 · Wikimedia Commons"
+            "src": "fotos/mucic.jpg",
+            "credit": "Imagen de Google Street View (2024), aportada por el equipo"
           },
           "verified": "partial",
-          "pending": "Verificar el estado actual (apertura, salas, visitas) y una foto de la casa misma.",
+          "pending": null,
           "sources": [
             "https://smpcali.org/casa-museo-de-la-ciudad/",
             "https://smpcali.org/nuestra-sede/"
@@ -938,9 +933,8 @@
           "address": "Calle 4 Oeste # 1-16, El Peñón",
           "desc": "Un espacio de lectura y memoria que conserva libros y patrimonio cultural de los caleños.",
           "photo": {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Biblioteca_del_Centenario_7-05-2015_01.JPG/960px-Biblioteca_del_Centenario_7-05-2015_01.JPG",
-            "page": "https://commons.wikimedia.org/wiki/File:Biblioteca_del_Centenario_7-05-2015_01.JPG",
-            "credit": "Leidy Estefani Mielguteto Sandoval · CC BY-SA 4.0 · Wikimedia Commons"
+            "src": "fotos/biblioteca.jpg",
+            "credit": "Foto aportada por el equipo"
           },
           "verified": true,
           "sources": [
@@ -962,9 +956,9 @@
           "address": "Avenida 4 Norte con Calle 1B Oeste, sector del río Cali",
           "desc": "La escultura de Hernando Tejada es un símbolo de Cali, acompañada por sus famosas gatas.",
           "photo": {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/El_Gato_del_R%C3%ADo-Cali.jpg/960px-El_Gato_del_R%C3%ADo-Cali.jpg",
-            "page": "https://commons.wikimedia.org/wiki/File:El_Gato_del_R%C3%ADo-Cali.jpg",
-            "credit": "Juan Espinosa · CC BY-SA 2.0 · Wikimedia Commons"
+            "src": "fotos/gato.jpg",
+            "credit": "Juan Espinosa · CC BY-SA 2.0 · Wikimedia Commons",
+            "page": "https://commons.wikimedia.org/wiki/File:El_Gato_del_R%C3%ADo-Cali.jpg"
           },
           "verified": true,
           "sources": [
@@ -985,9 +979,9 @@
           "address": "Calle 12 con Carrera 1, sobre el río Cali",
           "desc": "Cruza este puente histórico y descubre un punto de encuentro entre el centro de Cali y la ribera del río.",
           "photo": {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Puente_Ortiz_Cali.jpg/960px-Puente_Ortiz_Cali.jpg",
-            "page": "https://commons.wikimedia.org/wiki/File:Puente_Ortiz_Cali.jpg",
-            "credit": "Franciscokarriere · CC BY-SA 4.0 · Wikimedia Commons"
+            "src": "fotos/puente-ortiz.jpg",
+            "credit": "Franciscokarriere · CC BY-SA 4.0 · Wikimedia Commons",
+            "page": "https://commons.wikimedia.org/wiki/File:Puente_Ortiz_Cali.jpg"
           },
           "verified": true,
           "sources": [
@@ -1022,9 +1016,9 @@
           ],
           "base": 0,
           "photo": {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/La_Topa_Tolondra_01.jpg/960px-La_Topa_Tolondra_01.jpg",
-            "page": "https://commons.wikimedia.org/wiki/File:La_Topa_Tolondra_01.jpg",
-            "credit": "ProtoplasmaKid · CC BY 4.0 · Wikimedia Commons"
+            "src": "fotos/topa-tolondra.jpg",
+            "credit": "ProtoplasmaKid · CC BY 4.0 · Wikimedia Commons",
+            "page": "https://commons.wikimedia.org/wiki/File:La_Topa_Tolondra_01.jpg"
           },
           "verified": true,
           "sources": [
@@ -1047,9 +1041,12 @@
             7.5
           ],
           "base": 0,
-          "photo": null,
+          "photo": {
+            "src": "fotos/pintando-ando.jpg",
+            "credit": "Foto aportada por el equipo"
+          },
           "verified": "partial",
-          "pending": "Confirmar la dirección (publicada en un directorio) y una foto con licencia libre o autorizada.",
+          "pending": null,
           "sources": [
             "https://www.instagram.com/pintandoando.cali/",
             "https://www.findglocal.com/CO/Santiago-de-Cali/119943341032263/Pintando-Ando"
@@ -1071,9 +1068,9 @@
           ],
           "base": 0,
           "photo": {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Fachada_principal_Estacion_del_Ferrocarril_Cali.jpg/960px-Fachada_principal_Estacion_del_Ferrocarril_Cali.jpg",
-            "page": "https://commons.wikimedia.org/wiki/File:Fachada_principal_Estacion_del_Ferrocarril_Cali.jpg",
-            "credit": "Estación del Ferrocarril · Cathetovar · CC BY-SA 4.0 · Wikimedia Commons"
+            "src": "fotos/muli.jpg",
+            "credit": "Cathetovar · CC BY-SA 4.0 · Wikimedia Commons",
+            "page": "https://commons.wikimedia.org/wiki/File:Fachada_principal_Estacion_del_Ferrocarril_Cali.jpg"
           },
           "verified": "partial",
           "pending": "Un taller participativo requiere confirmar su programación; foto del museo mismo.",
@@ -1092,9 +1089,9 @@
           "address": "Punto de partida: Calle 12 con Carrera 1",
           "desc": "Empieza un recorrido libre para fotografiar el puente, el río y los detalles del Bulevar.",
           "photo": {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Puente_Ortiz_y_Bandera_de_Cali_01.jpg/960px-Puente_Ortiz_y_Bandera_de_Cali_01.jpg",
-            "page": "https://commons.wikimedia.org/wiki/File:Puente_Ortiz_y_Bandera_de_Cali_01.jpg",
-            "credit": "Remux · CC BY-SA 4.0 · Wikimedia Commons"
+            "src": "fotos/caminata-ortiz.jpg",
+            "credit": "Remux · CC BY-SA 4.0 · Wikimedia Commons",
+            "page": "https://commons.wikimedia.org/wiki/File:Puente_Ortiz_y_Bandera_de_Cali_01.jpg"
           },
           "verified": true,
           "sources": [
